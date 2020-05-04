@@ -1,0 +1,7 @@
+{
+  "name": "notificationPushAndroid",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
