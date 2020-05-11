@@ -1,0 +1,7 @@
+{
+  "name": "notificationPushIOS",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
